@@ -26,6 +26,24 @@ Route::get('/', function () {
 |
 */
 
-Route::group(['middleware' => ['web']], function () {
-    //
+
+
+/**
+ * 后台
+ */
+$admin = [
+    'prefix' => 'admin',
+    'namespace' => 'Admin',
+    'middleware' => ['web', 'admin']
+];
+
+
+Route::group($admin, function(){
+    Route::get('login', function () {
+        return view('admin.login');
+    });
+
+    Route::get('index', 'AuthController@index');
+
+
 });
