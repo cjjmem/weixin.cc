@@ -24,10 +24,6 @@ class AuthController extends Controller {
         $this->userRepository = $userRepository;
     }
 
-    public function index(){
-        return 2;
-    }
-
     public function getLogin(Request $request) {
         $redirect = $request->get('redirect', admin_url('/'));
         if (Auth::check()) {

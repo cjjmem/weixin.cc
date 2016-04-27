@@ -12,6 +12,6 @@ use App\Http\Controllers\Controller;
 class DashBoardController extends Controller
 {
     public function getIndex() {
-        return admin_view('index');
+        return view('admin.index');
     }
 }

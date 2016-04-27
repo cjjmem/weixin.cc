@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome2');
 });
 
 /*
@@ -26,24 +26,13 @@ Route::get('/', function () {
 |
 */
 
-
-
-/**
- * 后台
- */
 $admin = [
     'prefix' => 'admin',
     'namespace' => 'Admin',
-    'middleware' => ['web', 'admin']
+   //暂时未发现怎么使用 'middleware' => ['web', 'admin']
 ];
 
-
-Route::group($admin, function(){
-    Route::get('login', function () {
-        return view('admin.login');
-    });
-
-    Route::get('index', 'AuthController@index');
-
-
+Route::group($admin, function () {
+    //Route::get('/', function () {});
+    Route::get('/', 'DashBoardController@getIndex');
 });
