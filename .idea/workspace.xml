@@ -2,344 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6889d04f-72f7-4029-95ad-44810b3a2fd0" name="默认的" comment="">
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\app\Http\Controllers\Admin\AdminController.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\app\Http\Controllers\Admin\LoginController.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\app\Http\Controllers\Admin\PasswordController.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\css\animate.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\css\app.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\css\font.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\css\landing.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\fonts\opensans\opensans-bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\fonts\opensans\opensans-light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\fonts\opensans\opensans-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\app.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\avatar_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\avatar_default_female.jpg" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\logo.psd" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\main.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\phone-1.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\phone-2.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\render-1.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\thumb_1.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\thumb_2.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\images\thumb_3.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\app.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\app.plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\appear\jquery.appear.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\apps\notes.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\calendar\bootstrap_calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\calendar\bootstrap_calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\calendar\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\easypiechart\jquery.easy-pie-chart.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\flot\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\flot\jquery.flot.grow.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\flot\jquery.flot.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\flot\jquery.flot.orderBars.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\flot\jquery.flot.pie.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\flot\jquery.flot.resize.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\flot\jquery.flot.tooltip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\charts\sparkline\jquery.sparkline.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\combodate\combodate.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\data\datagrid.json" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\data\datatable.json" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\datatables\datatable.json" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\datatables\datatables.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\datatables\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\datatables\growthrate.csv" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\datatables\jquery.csv-0.71.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\datatables\jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\datepicker\bootstrap-datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\datepicker\datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\file-input\bootstrap-filestyle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\file-input\bootstrap.file-input.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\fuelux\demo.datagrid.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\fuelux\fuelux.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\fuelux\fuelux.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\fullcalendar\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\fullcalendar\fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\fullcalendar\fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\fullcalendar\theme.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\grid\gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\grid\gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\grid\jquery.grid-a-licious.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\grid\masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\ie\excanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\ie\html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\ie\respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\intro\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\intro\intro.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\intro\introjs.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\jquery-ui-1.10.3.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\jquery.ui.touch-punch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\jvectormap\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\jvectormap\jquery-jvectormap-1.2.2.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\jvectormap\jquery-jvectormap-1.2.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\jvectormap\jquery-jvectormap-world-mill-en.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\landing.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\libs\backbone-min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\libs\backbone.localStorage-min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\libs\jquery.pjax.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\libs\jquery.transit.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\libs\moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\libs\underscore-min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\maps\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\maps\gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\markdown\bartik.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\markdown\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\markdown\epic-light.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\markdown\epiceditor.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\markdown\epiceditor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\nestable\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\nestable\jquery.nestable.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\nestable\nestable.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\parsley\parsley.extend.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\parsley\parsley.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\default\default_thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\default\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\default\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\default\sprite_next.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\default\sprite_prev.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\default\sprite_x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\default\sprite_y.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\jquery.prettyPhoto.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\prettyphoto\prettyPhoto.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\scroll\smoothscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\select2\select2.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\select2\select2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\select2\theme.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\slider\bootstrap-slider.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\slider\slider.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\slider\slider.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\slimscroll\jquery.slimscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\sortable\jquery.sortable.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\wysiwyg\bootstrap-wysiwyg.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\wysiwyg\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\public\asset\js\wysiwyg\jquery.hotkeys.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\resources\views\admin\login.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\test.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\404.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Exception\Pass.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Exception\RequestSlash.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Exception\Stop.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Http\Cookie.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Http\CookieJar.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Http\Request.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Http\Response.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Http\Uri.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Log.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Logger.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Route.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Router.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Session\Flash.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Session\Handler.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Session\Handler\Cookies.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\Slim.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\Slim\View.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\index.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\api\notes.sql" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\blank.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\blog.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\change.log.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\chart.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\chrome-app\background.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\chrome-app\icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\chrome-app\icon-16.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\chrome-app\manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\chrome-app\window-extras.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\chrome-app\window.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\components.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\css\animate.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\css\app.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\css\font.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\css\landing.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\docs.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\features.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fonts\opensans\opensans-bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fonts\opensans\opensans-light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fonts\opensans\opensans-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\form-elements.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\form-validation.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\form-wizard.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\fullcalendar.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\gmap.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\grid.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\icons.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\app.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\avatar_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\avatar_default_female.jpg" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\logo.psd" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\main.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\phone-1.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\phone-2.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\render-1.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\thumb_1.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\thumb_2.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\images\thumb_3.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\index.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\intro.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\invoice.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\app.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\app.plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\appear\jquery.appear.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\apps\notes.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\calendar\bootstrap_calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\calendar\bootstrap_calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\calendar\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\easypiechart\jquery.easy-pie-chart.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\flot\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\flot\jquery.flot.grow.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\flot\jquery.flot.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\flot\jquery.flot.orderBars.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\flot\jquery.flot.pie.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\flot\jquery.flot.resize.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\flot\jquery.flot.tooltip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\charts\sparkline\jquery.sparkline.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\combodate\combodate.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\data\datagrid.json" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\data\datatable.json" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\datatables\datatable.json" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\datatables\datatables.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\datatables\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\datatables\growthrate.csv" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\datatables\jquery.csv-0.71.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\datatables\jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\datepicker\bootstrap-datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\datepicker\datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\file-input\bootstrap-filestyle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\file-input\bootstrap.file-input.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\fuelux\demo.datagrid.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\fuelux\fuelux.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\fuelux\fuelux.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\fullcalendar\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\fullcalendar\fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\fullcalendar\fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\fullcalendar\theme.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\grid\gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\grid\gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\grid\jquery.grid-a-licious.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\grid\masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\ie\excanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\ie\html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\ie\respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\intro\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\intro\intro.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\intro\introjs.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\jquery-ui-1.10.3.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\jquery.ui.touch-punch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\jvectormap\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\jvectormap\jquery-jvectormap-1.2.2.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\jvectormap\jquery-jvectormap-1.2.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\jvectormap\jquery-jvectormap-world-mill-en.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\landing.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\libs\backbone-min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\libs\backbone.localStorage-min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\libs\jquery.pjax.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\libs\jquery.transit.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\libs\moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\libs\underscore-min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\maps\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\maps\gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\markdown\bartik.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\markdown\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\markdown\epic-light.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\markdown\epiceditor.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\markdown\epiceditor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\nestable\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\nestable\jquery.nestable.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\nestable\nestable.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\parsley\parsley.extend.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\parsley\parsley.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\default\default_thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\default\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\default\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\default\sprite_next.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\default\sprite_prev.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\default\sprite_x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\default\sprite_y.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\jquery.prettyPhoto.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\prettyphoto\prettyPhoto.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\scroll\smoothscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\select2\select2.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\select2\select2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\select2\theme.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\slider\bootstrap-slider.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\slider\slider.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\slider\slider.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\slimscroll\jquery.slimscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\sortable\jquery.sortable.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\wysiwyg\bootstrap-wysiwyg.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\wysiwyg\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\js\wysiwyg\jquery.hotkeys.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\jvectormap.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\landing.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\layout-boxed.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\layout-c.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\layout-fluid.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\layout-h.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\layout-r.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.arrow.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.colors.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.layout.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.nav.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.plugin.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.reset.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.switch.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.variables.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\app.widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\less.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\lessc.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\less\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\list.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\mail.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\master.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\modal.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\modal.lockme.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\notebook.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\portlet.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\price.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\profile.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\psd\ui.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\psd\ui.psd" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\signin.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\signup.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\table-datagrid.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\table-datatable.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\table-static.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\timeline.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\web\www\weixin.cc\后台模板\widgets.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/AuthController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/AuthController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/DashBoardController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/DashBoardController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/index.php" afterPath="$PROJECT_DIR$/resources/views/admin/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
     </list>
     <ignored path="weixin.cc.iws" />
@@ -365,21 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RouteCollection.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="2940" max-vertical-offset="6260">
-              <caret line="154" column="31" selection-start-line="154" selection-start-column="31" selection-end-line="154" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.413794" vertical-offset="193" max-vertical-offset="880">
-              <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+            <state vertical-scroll-proportion="-16.793104" vertical-offset="193" max-vertical-offset="900">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
               <folding>
                 <element signature="e#7#385#0#PHP" expanded="true" />
               </folding>
@@ -397,21 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DashBoardController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DashBoardController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/DashBoardController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3202329" vertical-offset="0" max-vertical-offset="687">
+            <state vertical-scroll-proportion="-7.586207" vertical-offset="0" max-vertical-offset="340">
               <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Handler.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.241379" vertical-offset="300" max-vertical-offset="1020">
-              <caret line="45" column="26" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.67976713" vertical-offset="333" max-vertical-offset="1020">
+              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -445,8 +98,9 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AuthController.php" />
         <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/DashBoardController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/index.php" />
       </list>
     </option>
   </component>
@@ -908,7 +562,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1241,14 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2940" max-vertical-offset="6260">
-          <caret line="154" column="31" selection-start-line="154" selection-start-column="31" selection-end-line="154" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../hemeen.com/forum.jianyebao.com/config/config_global.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34934497" vertical-offset="0" max-vertical-offset="2160">
@@ -1267,19 +913,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.241379" vertical-offset="300" max-vertical-offset="1020">
+        <state vertical-scroll-proportion="0.72780204" vertical-offset="300" max-vertical-offset="1020">
           <caret line="45" column="26" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="26" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.413794" vertical-offset="193" max-vertical-offset="880">
-          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
-          <folding>
-            <element signature="e#7#385#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1291,10 +927,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2940" max-vertical-offset="6260">
+          <caret line="154" column="31" selection-start-line="154" selection-start-column="31" selection-end-line="154" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.793104" vertical-offset="193" max-vertical-offset="900">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding>
+            <element signature="e#7#385#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/DashBoardController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3202329" vertical-offset="0" max-vertical-offset="687">
+        <state vertical-scroll-proportion="-7.586207" vertical-offset="0" max-vertical-offset="340">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67976713" vertical-offset="333" max-vertical-offset="1020">
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
           <folding />
         </state>
       </provider>

@@ -35,4 +35,5 @@ $admin = [
 Route::group($admin, function () {
     //Route::get('/', function () {});
     Route::get('/', 'DashBoardController@getIndex');
+
 });
